@@ -102,7 +102,7 @@ MIDDLEWARE_CLASSES = (
     
 )
 
-ROOT_URLCONF = 'base.urls'
+ROOT_URLCONF = 'base-cms.urls'
 
 TEMPLATE_DIRS = ( os.path.join(PROJECT_ROOT, 'templates') 
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
