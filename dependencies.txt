@@ -1,0 +1,6 @@
+Django==1.2.3
+PIL==1.1.7
+distribute==0.6.10
+django-cms==2.1.0.beta3
+django-imagekit==0.3.3
+wsgiref==0.1.2
